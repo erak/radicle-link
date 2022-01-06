@@ -30,8 +30,8 @@ path = "../git-ext"
 features = ["serde", "minicbor"]
 
 [dependencies.radicle-keystore]
-git = "https://github.com/radicle-dev/radicle-keystore"
-rev = "00f8fb6135f8e4cd097a48e6f0700e08ce4abb04"
+git = "https://github.com/erak/radicle-keystore"
+rev = "1e39a0daaafd352f2ddb75899e99137b06519831"
 features = [ "ssh-agent" ]
 
 [dependencies.serde]
