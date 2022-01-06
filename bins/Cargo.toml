@@ -7,5 +7,5 @@ members = [
 ]
 
 [patch.crates-io.thrussh-encoding]
-git = "https://github.com/FintanH/thrussh.git"
+git = "https://github.com/erak/thrussh.git"
 branch = "generic-agent"

@@ -48,7 +48,7 @@ version = "2.1"
 features = [ "text" ]
 
 [dependencies.thrussh-agent]
-git = "https://github.com/FintanH/thrussh"
+git = "https://github.com/erak/thrussh"
 branch = "generic-agent"
 default-features = false
 

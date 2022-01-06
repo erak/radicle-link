@@ -26,6 +26,6 @@ path = "../rad-identities"
 path = "../rad-profile"
 
 [dependencies.thrussh-agent]
-git = "https://github.com/FintanH/thrussh"
+git = "https://github.com/erak/thrussh"
 branch = "generic-agent"
 default-features = false

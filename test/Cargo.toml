@@ -118,7 +118,7 @@ version  = "0.19"
 features = ["logging", "dangerous_configuration"]
 
 [dependencies.thrussh-agent]
-git = "https://github.com/FintanH/thrussh"
+git = "https://github.com/erak/thrussh"
 branch = "generic-agent"
 
 [dependencies.tracing-subscriber]
